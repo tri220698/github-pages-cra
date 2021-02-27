@@ -21,6 +21,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ffffff",
-  "content_security_policy": "default-src 'self'; img-src https://*; media-src https://*; script-src 'self' 'nonce-2726c7f26c'; style-src https://*; font-src https://*; object-src 'none'"
+  "background_color": "#ffffff"
 }
